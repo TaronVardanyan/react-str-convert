@@ -12,6 +12,10 @@
     "camelCase",
     "snake_case"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaronVardanyan/string-case-converter.git"
+  },
   "author": "taroka",
   "license": "ISC",
   "description": "",
