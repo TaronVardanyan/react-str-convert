@@ -1,6 +1,6 @@
 {
-  "name": "@taroka/string-case-converter",
-  "version": "1.0.6",
+  "name": "react-str-convert",
+  "version": "1.0.8",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest"
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/TaronVardanyan/string-case-converter.git"
   },
   "author": "taroka",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/jest": "^29.5.12",
