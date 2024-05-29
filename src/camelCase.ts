@@ -4,5 +4,4 @@ function toCamelCase(str: string): string {
         .replace(/^(.)/, (match, group1) => group1.toLowerCase());
 }
 
-
 export default toCamelCase;
