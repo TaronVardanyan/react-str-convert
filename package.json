@@ -1,0 +1,24 @@
+{
+  "name": "@taroka/string-case-converter",
+  "version": "1.0.5",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "case",
+    "conversion",
+    "camelCase",
+    "snake_case"
+  ],
+  "author": "TaronVardanyan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "typescript": "^5.4.5"
+  }
+}
